@@ -41,7 +41,7 @@ Optimized JavaScript logic ensures smooth gameplay across desktop and mobile bro
 
 # 📸 Preview
 
-> *(Add screenshots or GIFs here)*
+> *()*
 
 ```text
 assets/
@@ -67,7 +67,7 @@ assets/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/checkers-master-pro.git
+git clone (https://github.com/muxriddin-web/checkers)
 ```
 
 ---
@@ -75,7 +75,7 @@ git clone https://github.com/yourusername/checkers-master-pro.git
 ## Navigate into the Project
 
 ```bash
-cd checkers-master-pro
+cd checkers
 ```
 
 ---
@@ -183,8 +183,6 @@ Fully optimized for:
 checkers-master-pro/
 │
 ├── index.html
-├── style.css
-├── script.js
 │
 ├── assets/
 │   ├── images/
@@ -239,19 +237,19 @@ If you have questions, suggestions, or feedback, feel free to reach out.
 **Project Repository**
 
 ```text
-https://github.com/yourusername/checkers-master-pro
+(https://github.com/muxriddin-web/checkers)
 ```
 
 **Author**
 
 ```text
-Your Name
+Muxriddin_O'tkirov
 ```
 
 GitHub:
 
 ```text
-https://github.com/yourusername
+(https://github.com/muxriddin-web)
 ```
 
 ---
