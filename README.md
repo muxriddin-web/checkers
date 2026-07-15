@@ -48,13 +48,6 @@ Optimized JavaScript logic ensures smooth gameplay across desktop and mobile bro
   <p><i>Click to watch the demo on my portfolio</i></p>
 </div>
 
-```text
-assets/
-├── preview-1.png
-├── preview-2.png
-└── gameplay.gif
-```
-
 ---
 
 # 🛠️ Built With
