@@ -56,7 +56,7 @@ Optimized JavaScript logic ensures smooth gameplay across desktop and mobile bro
 |------------|----------|
 | HTML5 | Structure & Semantic Layout |
 | CSS3 | Styling, Responsive Design & Animations |
-| JavaScript (ES6+) | Game Logic, AI, UI Interaction |
+| JavaScript (ES6+) | Game Logic, UI Interaction |
 
 ---
 
